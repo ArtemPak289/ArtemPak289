@@ -1,38 +1,10 @@
-# 👋 Hey, I'm Artem
+<h1 align="center">Hi 👋, I'm Artem</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/rx3evmoqym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rx3evmoqym" height="30" width="40" /></a>
+</p>
 
-> IT guy. C language learner. Always debugging life.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🔧 Tech & Skills  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-<!-- Add more badges for your tools (VSCode, Linux, etc.) -->
-
----
-
-## 📊 GitHub Stats & Langs  
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPak289&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPak289&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Activity Graph  
-[![Artem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemPak289&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArtemPak289&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🛠️ Projects & Links  
-- [Repo1](#) — description  
-- [Repo2](#) — description  
-- Portfolio, blog, etc.
-
----
-
-## 📫 Contact Me  
-- Email: your.email@example.com  
-- LinkedIn: linkedin.com/in/your-profile  
-- Twitter / X: @yourhandle  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artempak289&show_icons=true&locale=en&layout=compact" alt="artempak289" /></p>
