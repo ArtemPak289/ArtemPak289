@@ -16,7 +16,9 @@
 | Languages | Tools | Databases | Systems |
 |------------|--------|------------|----------|
 | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |  |
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |  |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) |  |  |
+| ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) |  |  |  |
 
 ---
 
