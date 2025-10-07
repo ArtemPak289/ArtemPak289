@@ -1,39 +1,41 @@
-# 👋 Hey there, I'm **Artem Pak**
-### 💻 IT Specialist | ⚙️ C / Python Enthusiast | ☕ Code, Coffee & Linux  
+```markdown
+# 👋 Hey there, I'm Artyom Pak  
+
+💻 **IT enthusiast | Problem Solver | Code craftsman**
 
 ---
 
-## 🧠 About Me
-- 🔭 Currently working on **C algorithms and backend fundamentals**
-- 🌱 Learning **Cybersecurity & Go**
-- 🧩 Exploring **Docker**, **PostgreSQL**, and **MongoDB**
-- 🎯 Goal: Build solid low-level understanding before going full backend dev
-- ⚡ Fun fact: I debug faster than I cook instant noodles  
+### 🧠 About Me
+- 🔥 Passionate about algorithms, backend systems, and performance optimization  
+- 🧩 Solved **100+ algorithm problems** on [LeetCode](https://leetcode.com)  
+- 💬 Comfortable with **C**, **C++**, **Go (Golang)**, and **Bash scripting**  
+- 🎯 Always aiming for clean, maintainable, and efficient code  
 
 ---
 
-## 🧰 Languages and Tools
-| Languages | Tools | Databases | Systems |
-|------------|--------|------------|----------|
-| ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
-| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |  |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) |  |  |
-| ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) |  |  |  |
+### ⚙️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPak289&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtemPak289&theme=tokyonight)
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtyomPak289&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomPak289&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🧩 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemPak289&theme=tokyo-night)
+### 📫 Contact Me
+📧 [ArtemPak85@icloud.com](mailto:ArtemPak85@icloud.com)
 
 ---
 
-## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artem20077)
-[![Email](https://img.shields.io/badge/Email-Apple%20Mail-black?style=for-the-badge&logo=apple&logoColor=white)](mailto:artempak85@icloud.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/rx3evmoqym)
+### 💬 Quote
+> "Code like a poet. Debug like a detective."
+```
