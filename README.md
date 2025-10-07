@@ -7,7 +7,6 @@
 
 ### 🧠 About Me
 - 🔥 Passionate about algorithms, backend systems, and performance optimization  
-- 🧩 Solved **100+ algorithm problems** on [LeetCode](https://leetcode.com)  
 - 💬 Comfortable with **C**, **C++**, **Go (Golang)**, and **Bash scripting**  
 - 🎯 Always aiming for clean, maintainable, and efficient code  
 
@@ -31,8 +30,18 @@
 
 ---
 
-### 📫 Contact Me
-📧 [ArtemPak85@icloud.com](mailto:ArtemPak85@icloud.com)
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://t.me/Artem20077" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+  </a>
+  <a href="mailto:artempak85@icloud.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apple.svg" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
