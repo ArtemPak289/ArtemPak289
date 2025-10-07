@@ -1,19 +1,3 @@
-```markdown
-<h1 align="center">👋 Hey there, I'm Artem Pak</h1>
-<h3 align="center">💻 IT Specialist | ⚙️ C / Python Enthusiast | ☕ Code, Coffee & Linux</h3>
-
----
-
-### 🧠 About Me
-- 🔭 Currently working on **C algorithms and backend fundamentals**
-- 🌱 Learning **Cybersecurity & Go**
-- 🧩 Exploring **Docker**, **PostgreSQL**, and **MongoDB**
-- 🎯 Goal: Build solid low-level understanding before going full backend dev
-- ⚡ Fun fact: I debug faster than I cook instant noodles
-
----
-
-```markdown
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://t.me/Artem20077" target="_blank" rel="noreferrer">
@@ -26,9 +10,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-```
-
----
 
 ### 🧰 Languages and Tools
 <p align="left">
