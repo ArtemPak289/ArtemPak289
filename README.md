@@ -43,7 +43,11 @@ I'm an aspiring Backend Developer based in Tashkent. I am passionate about syste
 
 ### 📊 My GitHub Stats
 
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPak289&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtemPak289&show_icons=true&theme=radium" alt="Artem's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPak289&layout=compact&theme=radium" alt="Top Languages" />
+</p>
 
 ---
 
