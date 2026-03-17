@@ -39,18 +39,6 @@ I'm an aspiring Backend Developer based in Tashkent. I am passionate about syste
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtemPak289&show_icons=true&theme=radium" alt="Artem's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPak289&layout=compact&theme=radium" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 How to reach me:
 
 * **LinkedIn:** [artem-pak-541b91372](https://www.linkedin.com/in/artem-pak-541b91372)
